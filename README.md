@@ -11,7 +11,7 @@
 
 ## About me
 
-Hi, I'm Jacob. Don't believe it, but sometimes I pretend to be able to golf.
+Hi, I'm Jacob. Soetimes I pretend to be able to golf.
 
 My interests include fitness, good food, and the Phoenix Suns.
 
