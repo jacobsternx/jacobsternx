@@ -11,9 +11,9 @@
 
 ## About me
 
-Hi, I'm Jacob. Sometimes I pretend to be able to golf.
+Hi, I'm Jacob. 
 
-My interests include fitness, good food, and the Phoenix Suns.
+My aim for 2023 is to to upskill to a full stack dev capability, using javascript, php, mysql, git, and docker, with related technologies and tools.
 
 Here are some languages I'm learning:
 | Rank | Languages       |
@@ -22,4 +22,4 @@ Here are some languages I'm learning:
 |     4| HTML+CSS        |
 |     3| SQL             |
 |     2| git             |
-|     5| tools/libraries |
+|     5| Docker+tools    |
