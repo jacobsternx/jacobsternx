@@ -13,7 +13,7 @@
 
 Hi, I'm Jacob. 
 
-My aim for 2023 is to to upskill to a full stack dev capability, using javascript, php, mysql, git, and docker, with related technologies and tools.
+My aim for 2024 is to to upskill to a full stack dev capability, using javascript, php, mysql, git, and docker, with related technologies and tools.
 
 Here are some languages I'm learning:
 | Rank | Languages       |
