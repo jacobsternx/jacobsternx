@@ -13,13 +13,17 @@
 
 Hi, I'm Jacob. 
 
-My aim for 2024 is to to upskill to a full stack dev capability, using javascript, php, mysql, git, and docker, with related technologies and tools.
+My 2024 goal is to complete the Codecademy Full Stack Engineer Cert.
+Some of the languages, libraries, and frameworks I'm learning include:
 
-Here are some languages I'm learning:
-| Rank | Languages       |
-|-----:|-----------------|
-|     1| Javascript      |
-|     4| HTML+CSS        |
-|     3| SQL             |
-|     2| git             |
-|     5| Docker+tools    |
+git
+HTML+CSS
+Flexbox
+JavaScript
+jQuery
+React
+PostgreSQL
+Docker
+
+## License
+Copyright (c) Jacob Stern, 2024
