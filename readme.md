@@ -11,17 +11,10 @@
 
 ## About me
 
-Hi, I'm Jacob. 
+This is Jacob's GitHub.. 
 
 My 2024 goal is to complete the Codecademy Full Stack Engineer Cert.
-Some of the languages, libraries, and frameworks I'm learning include:
-
-git
-HTML+CSS
-JavaScript
-React
-PostgreSQL
-Docker
+See my codecademy repo for details.
 
 ## License
 Copyright (c) Jacob Stern, 2024
