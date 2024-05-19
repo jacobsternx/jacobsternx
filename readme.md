@@ -18,9 +18,7 @@ Some of the languages, libraries, and frameworks I'm learning include:
 
 git
 HTML+CSS
-Flexbox
 JavaScript
-jQuery
 React
 PostgreSQL
 Docker
